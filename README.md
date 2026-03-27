@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
 </p>
 
 ### Database
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
 </p>
 
-### Cloud & DevOps
+### Tools, Cloud & DevOps
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
@@ -58,13 +58,6 @@
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/ORM-7A52F4?style=flat" />
   <img src="https://img.shields.io/badge/Caching-228B22?style=flat" />
-</p>
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenThanhTien539&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenThanhTien539&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ## Connect with me
