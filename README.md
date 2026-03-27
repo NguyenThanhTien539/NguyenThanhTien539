@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋! I'm Nguyen Thanh Tien</h1>
 
 <p align="left">
-  💻 Backend Developer <br>
+  💻 Backend-focused Software Engineering student interested in APIs, databases, and cloud systems <br>
   🎓 Majoring in Software Engineering - Bachelor of Information Technology <br>
   🏫 University of Science - Vietnam National University <br>
   📍 HCM, Vietnam
@@ -58,6 +58,15 @@
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/ORM-7A52F4?style=flat" />
   <img src="https://img.shields.io/badge/Caching-228B22?style=flat" />
+</p>
+
+## Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/System_Design-0A0A0A?style=flat" />
+  <img src="https://img.shields.io/badge/CI/CD-222222?style=flat" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 </p>
 
 ## Connect with me
