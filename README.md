@@ -64,6 +64,7 @@
   <img src="https://img.shields.io/badge/JWT-111827?style=flat&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Authentication-0284C7?style=flat" />
   <img src="https://img.shields.io/badge/Authorization-9333EA?style=flat" />
+  <img src="https://img.shields.io/badge/Rate_Limiting-DC2626?style=flat" />
 </p>
 
 ## Connect with me
