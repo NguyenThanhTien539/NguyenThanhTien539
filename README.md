@@ -58,6 +58,10 @@
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/ORM-7A52F4?style=flat" />
   <img src="https://img.shields.io/badge/Caching-228B22?style=flat" />
+  <img src="https://img.shields.io/badge/Queue-FF6F00?style=flat" />
+  <img src="https://img.shields.io/badge/Authentication-1E88E5?style=flat" />
+  <img src="https://img.shields.io/badge/Authorization-8E24AA?style=flat" />
+  <img src="https://img.shields.io/badge/Rate_Limiting-6D4C41?style=flat" />
 </p>
 
 ## Connect with me
